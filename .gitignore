@@ -1,0 +1,18 @@
+# C extensions
+*.so
+
+# Translations
+*.mo
+*.pot
+
+# Environments
+.env
+.venv
+
+# Vim swap files
+*.swp
+*.swo
+
+# Zig files
+.zig-cache
+zig-out
