@@ -39,7 +39,7 @@ jobs:
 
     - name: Generate images
       run: |
-        ./zig-out/bin/github-stats
+        ./zig-out/bin/github-stats --json_output_file stats.json
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         EXCLUDE_REPOS: ${{ secrets.EXCLUDE_REPOS }}
