@@ -7,11 +7,26 @@
       "languages": [
         {
           "name": "Python",
-          "size": 178951,
+          "size": 77159,
           "color": "#3572A5"
+        },
+        {
+          "name": "Prolog",
+          "size": 38996,
+          "color": "#74283c"
+        },
+        {
+          "name": "Slint",
+          "size": 18794,
+          "color": "#2379F4"
+        },
+        {
+          "name": "Nix",
+          "size": 2658,
+          "color": "#7e7eff"
         }
       ],
-      "lines_changed": 2481,
+      "lines_changed": 42520,
       "views": 0,
       "private": false
     },
@@ -155,7 +170,7 @@
       "stars": 2,
       "forks": 0,
       "languages": [],
-      "lines_changed": 833,
+      "lines_changed": 431,
       "views": 0,
       "private": false
     },
@@ -185,7 +200,7 @@
           "color": "#7e7eff"
         }
       ],
-      "lines_changed": 35614,
+      "lines_changed": 32454,
       "views": 0,
       "private": false
     },
@@ -205,7 +220,7 @@
           "color": "#7e7eff"
         }
       ],
-      "lines_changed": 18100,
+      "lines_changed": 5633,
       "views": 0,
       "private": false
     },
@@ -216,7 +231,7 @@
       "languages": [
         {
           "name": "Nix",
-          "size": 316827,
+          "size": 320820,
           "color": "#7e7eff"
         },
         {
@@ -230,7 +245,7 @@
           "color": "#000080"
         }
       ],
-      "lines_changed": 21784,
+      "lines_changed": 22327,
       "views": 0,
       "private": false
     },
@@ -241,7 +256,7 @@
       "languages": [
         {
           "name": "Python",
-          "size": 72934,
+          "size": 190863,
           "color": "#3572A5"
         },
         {
@@ -320,6 +335,21 @@
       "private": false
     },
     {
+      "name": "Masrkai/github-stats",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Zig",
+          "size": 64006,
+          "color": "#ec915c"
+        }
+      ],
+      "lines_changed": 5443,
+      "views": 0,
+      "private": false
+    },
+    {
       "name": "Masrkai/Case_Studies",
       "stars": 0,
       "forks": 0,
@@ -340,7 +370,7 @@
           "color": "#f34b7d"
         }
       ],
-      "lines_changed": 2282,
+      "lines_changed": 2313,
       "views": 0,
       "private": false
     },
@@ -365,42 +395,7 @@
           "color": "#7e7eff"
         }
       ],
-      "lines_changed": 2602,
-      "views": 0,
-      "private": false
-    },
-    {
-      "name": "Masrkai/Github_Stats",
-      "stars": 0,
-      "forks": 0,
-      "languages": [
-        {
-          "name": "Python",
-          "size": 22386,
-          "color": "#3572A5"
-        },
-        {
-          "name": "Nix",
-          "size": 967,
-          "color": "#7e7eff"
-        }
-      ],
-      "lines_changed": 3009,
-      "views": 0,
-      "private": false
-    },
-    {
-      "name": "dev-ahmedkhaled/Image-Password-Manager",
-      "stars": 0,
-      "forks": 0,
-      "languages": [
-        {
-          "name": "MATLAB",
-          "size": 39439,
-          "color": "#e16737"
-        }
-      ],
-      "lines_changed": 1151,
+      "lines_changed": 8248,
       "views": 0,
       "private": false
     },
@@ -440,6 +435,21 @@
       "private": false
     },
     {
+      "name": "dev-ahmedkhaled/Image-Password-Manager",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "MATLAB",
+          "size": 39439,
+          "color": "#e16737"
+        }
+      ],
+      "lines_changed": 1151,
+      "views": 0,
+      "private": false
+    },
+    {
       "name": "Masrkai/Mental_Health_Focused_Ai",
       "stars": 0,
       "forks": 0,
@@ -450,7 +460,7 @@
           "color": "#3572A5"
         }
       ],
-      "lines_changed": 4072,
+      "lines_changed": 617,
       "views": 0,
       "private": false
     },
@@ -471,31 +481,6 @@
         }
       ],
       "lines_changed": 922,
-      "views": 0,
-      "private": false
-    },
-    {
-      "name": "Masrkai/Algos_meta_code",
-      "stars": 0,
-      "forks": 0,
-      "languages": [
-        {
-          "name": "C++",
-          "size": 32900,
-          "color": "#f34b7d"
-        },
-        {
-          "name": "Nix",
-          "size": 873,
-          "color": "#7e7eff"
-        },
-        {
-          "name": "CMake",
-          "size": 762,
-          "color": "#DA3434"
-        }
-      ],
-      "lines_changed": 2816,
       "views": 0,
       "private": false
     },
@@ -521,6 +506,31 @@
         }
       ],
       "lines_changed": 3807,
+      "views": 0,
+      "private": false
+    },
+    {
+      "name": "Masrkai/Algos_meta_code",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "C++",
+          "size": 32900,
+          "color": "#f34b7d"
+        },
+        {
+          "name": "Nix",
+          "size": 873,
+          "color": "#7e7eff"
+        },
+        {
+          "name": "CMake",
+          "size": 762,
+          "color": "#DA3434"
+        }
+      ],
+      "lines_changed": 7,
       "views": 0,
       "private": false
     },
@@ -573,15 +583,6 @@
       "lines_changed": 3257,
       "views": 0,
       "private": false
-    },
-    {
-      "name": "Masrkai/Android_Debloat",
-      "stars": 0,
-      "forks": 0,
-      "languages": [],
-      "lines_changed": 24,
-      "views": 0,
-      "private": false
     }
   ],
   "user": "Masrkai",
@@ -590,9 +591,9 @@
     "118424417+Masrkai@users.noreply.github.com",
     "ahmedelsayedaka2005@gmail.com"
   ],
-  "repo_contributions": 25,
+  "repo_contributions": 24,
   "issue_contributions": 22,
-  "commit_contributions": 465,
-  "pr_contributions": 40,
+  "commit_contributions": 524,
+  "pr_contributions": 42,
   "review_contributions": 10
 }
