@@ -256,21 +256,21 @@
       "languages": [
         {
           "name": "Python",
-          "size": 190863,
+          "size": 186794,
           "color": "#3572A5"
         },
         {
-          "name": "Nix",
-          "size": 681,
-          "color": "#7e7eff"
+          "name": "HTML",
+          "size": 19339,
+          "color": "#e34c26"
         },
         {
-          "name": "Shell",
-          "size": 242,
-          "color": "#89e051"
+          "name": "Nix",
+          "size": 2658,
+          "color": "#7e7eff"
         }
       ],
-      "lines_changed": 3230614,
+      "lines_changed": 10052,
       "views": 0,
       "private": false
     },
@@ -593,7 +593,7 @@
   ],
   "repo_contributions": 24,
   "issue_contributions": 22,
-  "commit_contributions": 524,
+  "commit_contributions": 526,
   "pr_contributions": 42,
   "review_contributions": 10
 }
