@@ -260,17 +260,12 @@
           "color": "#3572A5"
         },
         {
-          "name": "HTML",
-          "size": 19339,
-          "color": "#e34c26"
-        },
-        {
           "name": "Nix",
           "size": 2658,
           "color": "#7e7eff"
         }
       ],
-      "lines_changed": 10052,
+      "lines_changed": 9231,
       "views": 0,
       "private": false
     },
@@ -335,21 +330,6 @@
       "private": false
     },
     {
-      "name": "Masrkai/github-stats",
-      "stars": 0,
-      "forks": 0,
-      "languages": [
-        {
-          "name": "Zig",
-          "size": 64006,
-          "color": "#ec915c"
-        }
-      ],
-      "lines_changed": 5443,
-      "views": 0,
-      "private": false
-    },
-    {
       "name": "Masrkai/Case_Studies",
       "stars": 0,
       "forks": 0,
@@ -370,7 +350,22 @@
           "color": "#f34b7d"
         }
       ],
-      "lines_changed": 2313,
+      "lines_changed": 2336,
+      "views": 0,
+      "private": false
+    },
+    {
+      "name": "Masrkai/github-stats",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Zig",
+          "size": 64006,
+          "color": "#ec915c"
+        }
+      ],
+      "lines_changed": 5443,
       "views": 0,
       "private": false
     },
@@ -396,6 +391,21 @@
         }
       ],
       "lines_changed": 8248,
+      "views": 0,
+      "private": false
+    },
+    {
+      "name": "dev-ahmedkhaled/Image-Password-Manager",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "MATLAB",
+          "size": 39439,
+          "color": "#e16737"
+        }
+      ],
+      "lines_changed": 1151,
       "views": 0,
       "private": false
     },
@@ -435,17 +445,22 @@
       "private": false
     },
     {
-      "name": "dev-ahmedkhaled/Image-Password-Manager",
+      "name": "Masrkai/useragentgen",
       "stars": 0,
       "forks": 0,
       "languages": [
         {
-          "name": "MATLAB",
-          "size": 39439,
-          "color": "#e16737"
+          "name": "Python",
+          "size": 26053,
+          "color": "#3572A5"
+        },
+        {
+          "name": "Nix",
+          "size": 2767,
+          "color": "#7e7eff"
         }
       ],
-      "lines_changed": 1151,
+      "lines_changed": 1306,
       "views": 0,
       "private": false
     },
@@ -485,31 +500,6 @@
       "private": false
     },
     {
-      "name": "Masrkai/areyousad",
-      "stars": 0,
-      "forks": 0,
-      "languages": [
-        {
-          "name": "Go",
-          "size": 44126,
-          "color": "#00ADD8"
-        },
-        {
-          "name": "Nix",
-          "size": 441,
-          "color": "#7e7eff"
-        },
-        {
-          "name": "Makefile",
-          "size": 322,
-          "color": "#427819"
-        }
-      ],
-      "lines_changed": 3807,
-      "views": 0,
-      "private": false
-    },
-    {
       "name": "Masrkai/Algos_meta_code",
       "stars": 0,
       "forks": 0,
@@ -531,6 +521,31 @@
         }
       ],
       "lines_changed": 7,
+      "views": 0,
+      "private": false
+    },
+    {
+      "name": "Masrkai/areyousad",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "Go",
+          "size": 44126,
+          "color": "#00ADD8"
+        },
+        {
+          "name": "Nix",
+          "size": 441,
+          "color": "#7e7eff"
+        },
+        {
+          "name": "Makefile",
+          "size": 322,
+          "color": "#427819"
+        }
+      ],
+      "lines_changed": 3807,
       "views": 0,
       "private": false
     },
@@ -591,9 +606,9 @@
     "118424417+Masrkai@users.noreply.github.com",
     "ahmedelsayedaka2005@gmail.com"
   ],
-  "repo_contributions": 24,
+  "repo_contributions": 25,
   "issue_contributions": 22,
-  "commit_contributions": 526,
+  "commit_contributions": 534,
   "pr_contributions": 42,
   "review_contributions": 10
 }
