@@ -176,26 +176,31 @@
       "languages": [
         {
           "name": "C++",
-          "size": 61337,
+          "size": 70097,
           "color": "#f34b7d"
         },
         {
+          "name": "Slint",
+          "size": 9352,
+          "color": "#2379F4"
+        },
+        {
           "name": "Shell",
-          "size": 8053,
+          "size": 8760,
           "color": "#89e051"
         },
         {
           "name": "CMake",
-          "size": 3373,
+          "size": 4937,
           "color": "#DA3434"
         },
         {
           "name": "Nix",
-          "size": 1743,
+          "size": 3748,
           "color": "#7e7eff"
         }
       ],
-      "lines_changed": 32454,
+      "lines_changed": 35443,
       "views": 0,
       "private": false
     },
@@ -395,6 +400,21 @@
       "private": false
     },
     {
+      "name": "dev-ahmedkhaled/Image-Password-Manager",
+      "stars": 0,
+      "forks": 0,
+      "languages": [
+        {
+          "name": "MATLAB",
+          "size": 39439,
+          "color": "#e16737"
+        }
+      ],
+      "lines_changed": 1151,
+      "views": 0,
+      "private": false
+    },
+    {
       "name": "Masrkai/Manya",
       "stars": 0,
       "forks": 0,
@@ -426,21 +446,6 @@
         }
       ],
       "lines_changed": 1552,
-      "views": 0,
-      "private": false
-    },
-    {
-      "name": "dev-ahmedkhaled/Image-Password-Manager",
-      "stars": 0,
-      "forks": 0,
-      "languages": [
-        {
-          "name": "MATLAB",
-          "size": 39439,
-          "color": "#e16737"
-        }
-      ],
-      "lines_changed": 1151,
       "views": 0,
       "private": false
     },
@@ -648,7 +653,7 @@
   ],
   "repo_contributions": 26,
   "issue_contributions": 22,
-  "commit_contributions": 586,
+  "commit_contributions": 590,
   "pr_contributions": 43,
   "review_contributions": 10
 }
