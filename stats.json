@@ -321,7 +321,7 @@
       "languages": [
         {
           "name": "Nix",
-          "size": 317166,
+          "size": 315920,
           "color": "#7e7eff"
         },
         {
@@ -335,7 +335,7 @@
           "color": "#000080"
         }
       ],
-      "lines_changed": 25515,
+      "lines_changed": 26864,
       "views": 0,
       "private": false
     },
@@ -688,7 +688,7 @@
   ],
   "repo_contributions": 26,
   "issue_contributions": 19,
-  "commit_contributions": 571,
+  "commit_contributions": 574,
   "pr_contributions": 32,
   "review_contributions": 8
 }
