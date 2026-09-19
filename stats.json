@@ -341,12 +341,12 @@
       "languages": [
         {
           "name": "Nix",
-          "size": 314980,
+          "size": 318906,
           "color": "#7e7eff"
         },
         {
           "name": "Shell",
-          "size": 59124,
+          "size": 36284,
           "color": "#89e051"
         },
         {
@@ -355,7 +355,7 @@
           "color": "#000080"
         }
       ],
-      "lines_changed": 27685,
+      "lines_changed": 28925,
       "views": 0,
       "private": false
     },
@@ -688,7 +688,7 @@
   ],
   "repo_contributions": 26,
   "issue_contributions": 19,
-  "commit_contributions": 585,
+  "commit_contributions": 590,
   "pr_contributions": 32,
   "review_contributions": 8
 }
