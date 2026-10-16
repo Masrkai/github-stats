@@ -390,32 +390,32 @@
       "private": false
     },
     {
-      "name": "Masrkai/Vera",
+      "name": "Masrkai/Case_Studies",
       "stars": 0,
       "forks": 0,
       "languages": [
         {
-          "name": "Rust",
-          "size": 73130,
-          "color": "#dea584"
+          "name": "Assembly",
+          "size": 24237,
+          "color": "#6E4C13"
         },
         {
-          "name": "Slint",
-          "size": 19123,
-          "color": "#2379F4"
+          "name": "Python",
+          "size": 14398,
+          "color": "#3572A5"
         },
         {
-          "name": "Nix",
-          "size": 3135,
-          "color": "#7e7eff"
+          "name": "Shell",
+          "size": 2599,
+          "color": "#89e051"
         },
         {
-          "name": "SCSS",
-          "size": 524,
-          "color": "#c6538c"
+          "name": "C++",
+          "size": 1027,
+          "color": "#f34b7d"
         }
       ],
-      "lines_changed": 9838,
+      "lines_changed": 8046,
       "views": 0,
       "private": false
     },
@@ -655,32 +655,37 @@
       "private": false
     },
     {
-      "name": "Masrkai/Case_Studies",
+      "name": "Masrkai/Vera",
       "stars": 0,
       "forks": 0,
       "languages": [
         {
-          "name": "Assembly",
-          "size": 24237,
-          "color": "#6E4C13"
+          "name": "Rust",
+          "size": 102133,
+          "color": "#dea584"
         },
         {
-          "name": "Python",
-          "size": 14398,
-          "color": "#3572A5"
+          "name": "Slint",
+          "size": 39673,
+          "color": "#2379F4"
         },
         {
-          "name": "Shell",
-          "size": 2599,
-          "color": "#89e051"
+          "name": "Nix",
+          "size": 3135,
+          "color": "#7e7eff"
         },
         {
-          "name": "C++",
-          "size": 1027,
-          "color": "#f34b7d"
+          "name": "Gherkin",
+          "size": 1357,
+          "color": "#5B2063"
+        },
+        {
+          "name": "SCSS",
+          "size": 1049,
+          "color": "#c6538c"
         }
       ],
-      "lines_changed": 8046,
+      "lines_changed": 14242,
       "views": 0,
       "private": false
     }
@@ -693,7 +698,7 @@
   ],
   "repo_contributions": 26,
   "issue_contributions": 19,
-  "commit_contributions": 477,
+  "commit_contributions": 486,
   "pr_contributions": 30,
   "review_contributions": 8
 }
