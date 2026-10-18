@@ -661,7 +661,7 @@
       "languages": [
         {
           "name": "Rust",
-          "size": 102133,
+          "size": 99683,
           "color": "#dea584"
         },
         {
@@ -675,17 +675,12 @@
           "color": "#7e7eff"
         },
         {
-          "name": "Gherkin",
-          "size": 1357,
-          "color": "#5B2063"
-        },
-        {
           "name": "SCSS",
           "size": 1049,
           "color": "#c6538c"
         }
       ],
-      "lines_changed": 14242,
+      "lines_changed": 14990,
       "views": 0,
       "private": false
     }
@@ -698,7 +693,7 @@
   ],
   "repo_contributions": 26,
   "issue_contributions": 19,
-  "commit_contributions": 486,
+  "commit_contributions": 488,
   "pr_contributions": 30,
   "review_contributions": 8
 }
