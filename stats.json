@@ -62,7 +62,7 @@
       "languages": [
         {
           "name": "Rust",
-          "size": 416586,
+          "size": 418805,
           "color": "#dea584"
         },
         {
@@ -71,22 +71,17 @@
           "color": "#89e051"
         },
         {
-          "name": "Gherkin",
-          "size": 19686,
-          "color": "#5B2063"
-        },
-        {
           "name": "C",
-          "size": 7952,
+          "size": 9732,
           "color": "#555555"
         },
         {
           "name": "Nix",
-          "size": 4497,
+          "size": 5680,
           "color": "#7e7eff"
         }
       ],
-      "lines_changed": 34597,
+      "lines_changed": 43656,
       "views": 0,
       "private": false
     },
@@ -693,7 +688,7 @@
   ],
   "repo_contributions": 26,
   "issue_contributions": 19,
-  "commit_contributions": 488,
+  "commit_contributions": 493,
   "pr_contributions": 30,
   "review_contributions": 8
 }
