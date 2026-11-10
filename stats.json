@@ -425,19 +425,14 @@
       "forks": 0,
       "languages": [
         {
-          "name": "Lua",
-          "size": 23737,
-          "color": "#000080"
-        },
-        {
           "name": "Shell",
-          "size": 13627,
+          "size": 42672,
           "color": "#89e051"
         },
         {
-          "name": "Python",
-          "size": 13589,
-          "color": "#3572A5"
+          "name": "Lua",
+          "size": 23737,
+          "color": "#000080"
         },
         {
           "name": "Typst",
@@ -445,7 +440,7 @@
           "color": "#239dad"
         }
       ],
-      "lines_changed": 9531,
+      "lines_changed": 10825,
       "views": 0,
       "private": false
     },
@@ -798,7 +793,7 @@
   ],
   "repo_contributions": 30,
   "issue_contributions": 19,
-  "commit_contributions": 578,
+  "commit_contributions": 579,
   "pr_contributions": 30,
   "review_contributions": 8
 }
